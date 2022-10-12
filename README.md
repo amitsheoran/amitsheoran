@@ -1,4 +1,6 @@
-### Hi 👋, I'm Amit Sheoran
+<h1 align="center">Hi 👋, I'm Amit Sheoran</h1>
+<h3 align="center">Sr. Qulaity Assurance Engineer</h3>
+
 
 
 <!--
